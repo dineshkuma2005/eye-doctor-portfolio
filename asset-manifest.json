@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/eye-doctor-portfolio/static/css/main.3ce48ded.css",
+    "main.js": "/eye-doctor-portfolio/static/js/main.6f987c41.js",
+    "static/js/453.c9218a36.chunk.js": "/eye-doctor-portfolio/static/js/453.c9218a36.chunk.js",
+    "static/media/profile.jpeg": "/eye-doctor-portfolio/static/media/profile.6c489971f0e143e5cbc8.jpeg",
+    "static/media/degree.jpeg": "/eye-doctor-portfolio/static/media/degree.9f4d74f81a3690bca29f.jpeg",
+    "index.html": "/eye-doctor-portfolio/index.html",
+    "main.3ce48ded.css.map": "/eye-doctor-portfolio/static/css/main.3ce48ded.css.map",
+    "main.6f987c41.js.map": "/eye-doctor-portfolio/static/js/main.6f987c41.js.map",
+    "453.c9218a36.chunk.js.map": "/eye-doctor-portfolio/static/js/453.c9218a36.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ce48ded.css",
+    "static/js/main.6f987c41.js"
+  ]
+}
